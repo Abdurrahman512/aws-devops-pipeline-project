@@ -1,1 +1,1 @@
-# aws-devops-pipeline-project
+# Sample Application for AWS DevOps Course
